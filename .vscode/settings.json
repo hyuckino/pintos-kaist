@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "fsutil.h": "c"
+        "fsutil.h": "c",
+        "process.h": "c"
     }
 }
